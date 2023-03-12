@@ -1,7 +1,8 @@
 # OpenGL-Project
 ## Graphic Processing Systems , 4-th year
 
-Team members: 
+## Info 
+--------------
 
 - Ciontu Claudia-Elena and Draghici Andreea-Maria
 - CR4.S1A
